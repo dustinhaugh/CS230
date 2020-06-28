@@ -1,0 +1,29 @@
+Dustin Haugh
+CS 230
+Module 8 Journal
+
+•	Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+
+The client wanted to develop a game that would follow a client/server model and be portable to different operating systems. Likely, we would use Java, as it is highly portable due to its uses of a runtime environment.
+
+•	What did you do particularly well in developing this documentation?
+
+I made some great mistakes, like the one where I put together three separate versions instead of combining the different iterations into one useable document. I did realize this later, so I learned my lesson to read a bit more carefully into the project requirements.
+Some of the language I used sounded professional and witty, I was proud of  that. 
+
+•	What about the process of working through a design document did you find helpful when developing the code?
+
+A design document helps create a definitions and traceability matrix for the developer. This seems to be one of our first documents where we talk about the needs of the clients, and give everyone on the project an idea of what it will take to develop it.  
+
+•	If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+
+I would have gone back and just created one iteration of the document by correctly revising each section and adding to the version number. 
+
+•	How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+
+Our client is important. They know what is necessary for their project to accomplish, so getting the best idea of what that is as the developer is important. As professional engineers, this is what we are meant to do. We are the professional solution finders that get things right the first time.
+
+•	How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+
+I would work to develop a behavioral and functional model of the software. We could use UML design tools to draw this out and communicate these ideas to other project managers and developers to get feedback no matter what the software application would be. 
+These tools are created by feedback received from the client, just as what we have worked with in this class. This was a great class and a great chance to use some of the common practices we will use in the private sector. 
